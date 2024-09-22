@@ -77,7 +77,7 @@ a {
   color: var(--tertiary-color);
   white-space: nowrap;
   border-right: 4px solid;
-  width: 24ch;
+  width: 22ch;
   animation: typing 3s steps(17),blink .5s infinite step-end alternate;
   overflow: hidden;
   margin-bottom: 1.2em
